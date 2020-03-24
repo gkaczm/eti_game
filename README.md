@@ -8,3 +8,5 @@ Każdy gracz może ustawić miecz na jednej z trzech pozycji (dół,środek, gó
 Żeby zlikwidować przeciwnika należy pchnąć go na wysokości na której ten nie ma miecza. 
 Gdy gracz zginie, znika na kilka sekund, zaś przeciwnik ma w tym czasie za zadanie dobiec jak najdalej wgłąb strony zlikwidowanego gracza. Po kilku sekundach obie postaci znów są widzialne i pojedynek zostaje wznowiony.
 Wygrywa gracz, który jako pierwszy dobiegnie do końca części przeciwnika. 
+
+Planowane jest wykorzystanie języka python i biblioteki pygame.
